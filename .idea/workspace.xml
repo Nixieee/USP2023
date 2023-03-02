@@ -74,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677773265686</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Class changes">
+      <created>1677773708148</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677773708148</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,12 +94,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Text Added" />
     <MESSAGE value="Third commit :)" />
     <MESSAGE value="Fourth commit" />
     <MESSAGE value="nomer pet" />
-    <option name="LAST_COMMIT_MESSAGE" value="nomer pet" />
+    <MESSAGE value="Class changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class changes" />
   </component>
 </project>
